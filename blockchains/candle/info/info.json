@@ -1,0 +1,30 @@
+{
+    "name": "Candle",
+    "website": "https://candlelabs.org/",
+    "short_description": "Candle (CNDL) strives to solve the scalability and usability issues, while not compromising on decentralization and leveraging the existing developer community and ecosystem",
+    "description": "Candle (CNDL) strives to solve the scalability and usability issues, while not compromising on decentralization and leveraging the existing developer community and ecosystem",
+    "explorer": "https://candlexplorer.com/",
+    "research": "https://docs.Candlelabs.org/",
+    "type": "coin",
+    "symbol": "CNDL",
+    "decimals": 18,
+    "status": "active",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/candleplatforms"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/candle_labs"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/cndl/"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://github.com/candleplatforms/whitepaper"
+        }
+    ]
+}
